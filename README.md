@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is BIGDummyHead, I love working on code as a hobby and in my job! I am currently 16 and majoring in Computer Science!
+My name is BIGDummyHead
+
+I currently am majoring in Computer Science and working for a YouTuber!
 
 Here are some of my favorite repos, that are completely open source!
 
@@ -10,6 +12,14 @@ Here are some of my favorite repos, that are completely open source!
 
 Not in any particular order, but just a highlight!
 
-If you would like to contact me, please message me via [email](mailto:codestopping22@gmail.com) or on Discord BIGDummyHead#8124
+### If you would like to contact me, please message me via [email](mailto:codestopping22@gmail.com) or on Discord BIGDummyHead#8124
 
-<!-- ![DuckDuckDuck](https://tenor.com/view/duck-duck-dance-subaru-subaru-duck-dance-hey-ya-gif-21217404) -->
+Note: please only email if the subject includes
+- Job offer
+- Collab on repo
+
+Other than that, please contact me on discord.
+
+ ![DuckDuckDuck](https://github.com/BIGDummyHead/BIGDummyHead/blob/main/duck.gif) 
+
+Also, I love ducks, so please send me some pictures of them! 😄
