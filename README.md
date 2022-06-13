@@ -1,25 +1,33 @@
-### Hi there 👋
 
-My name is BIGDummyHead
+# Hi, I'm Shawn! 👋
 
-I currently am majoring in Computer Science and working for a YouTuber!
 
-Here are some of my favorite repos, that are completely open source!
+I am currently 17 and love programming in the C# language!
 
-- [Random Dog](https://github.com/BIGDummyHead/randomdog) - Random Dog pictures, a full wrapper on the site [Dog.Ceo](https://dog.ceo/dog-api/breeds-list)
-- [Fast Loader](https://github.com/bigdummyhead/fastloader) - A DLL loader for a Unity game named Fast and Low!
-- [Pointer Plus](https://github.com/BIGDummyHead/PointerPlus) - Makes C# kinda feel like C++!
+Feel free to take a second to look around my Git, thanks!
 
-Not in any particular order, but just a highlight!
 
-### If you would like to contact me, please message me via [email](mailto:codestopping22@gmail.com) or on Discord BIGDummyHead#8124
 
-Note: please only email if the subject includes
-- Job offer
-- Collab on repo
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on... getting an internship!
 
-Other than that, please contact me on discord.
+🧠 I'm currently learning... how to make a small indie game from start to finish.
 
- ![DuckDuckDuck](https://github.com/BIGDummyHead/BIGDummyHead/blob/main/duck.gif) 
+👯‍♀️ I'm looking to collaborate on... anything Unity related or just a fun project you have in mind!
 
-Also, I love ducks, so please send me some pictures of them! 😄
+💬 Ask me about... Unity, computers, and CSharp.
+
+📫 How to reach me... [email](mailto:shawnb456324@gmail.com) or Discord(BIGDummyHead#8124)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/FIVERR-dark?style=for-the-badge&logo=appveyor)](https://www.fiverr.com/shawnbohn?up_rollout=true)
+
+
+## 🛠 Skills
+* C#
+* .Net
+* MSVC
+* Unity
+* REST API
+
+
