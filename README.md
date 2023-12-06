@@ -2,7 +2,7 @@
 # Hi, I'm Shawn! 👋
 
 
-I am currently 17 and love programming in the C# language!
+I am currently 19 and love programming in the C# language!
 
 Feel free to take a second to look around my Git, thanks!
 
