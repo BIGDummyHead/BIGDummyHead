@@ -1,33 +1,44 @@
+# Hi there, I'm Shawn Bohn!
 
-# Hi, I'm Shawn! 👋
+I'm a **Computer Information Science** student at the **University of North Florida** (Class of 2027, started in 2023) and a passionate **Web Developer** at Elyk Innovation in North Florida. I enjoy creating innovative web solutions and expanding my skillset in both front-end and back-end development.
 
+---
 
-I am currently 19 and love programming in the C# language!
+## 🎓 Education
 
-Feel free to take a second to look around my Git, thanks!
+- **University:** University of North Florida  
+- **Degree:** Bachelor’s in Computer Information Science  
+- **Expected Graduation:** 2027  
+- **Started:** 2023
 
+---
 
+## 💼 Current Position
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... getting an internship!
+- **Web Developer at Elyk Innovation**  
+  *North Florida, FL*  
+  - Develop and maintain full-stack web applications.
+  - Collaborate with design teams to create user-friendly websites.
+  - Work on innovative projects using modern web technologies.
 
-🧠 I'm currently learning... how to make a small indie game from start to finish.
+---
 
-👯‍♀️ I'm looking to collaborate on... anything Unity related or just a fun project you have in mind!
+## 🛠 Skills & Technologies
 
-💬 Ask me about... Unity, computers, and CSharp.
+- **Programming Languages:** C#, C++ (C++ Lang 21), Java  
+- **Web Development:** Full-stack Web Development, Website Design (Adobe XD)  
+- **Frameworks & Platforms:** .NET Platform  
+- **Database Management:** SQL (MySQL, MariaDB, AdminEVO, PHPMyAdmin)  
+- **Concepts:** Object-Oriented Programming (OOP)  
+- **Certifications:** Microsoft Office Certified (all suites)
 
-📫 How to reach me... [email](mailto:shawnb456324@gmail.com) or Discord(BIGDummyHead#8124)
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/FIVERR-dark?style=for-the-badge&logo=appveyor)](https://www.fiverr.com/shawnbohn?up_rollout=true)
+## 📫 Contact Me
 
+- **Phone:** 4846445423  
+- **Email:** [n01571970@unf.edu](mailto:n01571970@unf.edu)
 
-## 🛠 Skills
-* C#
-* .Net
-* MSVC
-* Unity
-* REST API
+---
 
-
+Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work!
